@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to play Call Of Duty WarZone 
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/ravuga/">[<img align="left" alt="ravuga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]</a>
-<a href="https://www.instagram.com/gauravkumar_13316/">[<img align="left" alt="ravuga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]</a>
+<a href="https://www.linkedin.com/in/ravuga/"><img align="left" alt="ravuga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/gauravkumar_13316/"><img align="left" alt="ravuga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br />
 
