@@ -1,4 +1,4 @@
-### Hi there, I'm Gaurav Kumar [https://www.linkedin.com/in/ravuga/]👋
+### Hi there, I'm <a href="https://www.linkedin.com/in/ravuga/"><b>Gaurav Kumar</b></a>👋
 
 ## I'm a Software Developer !
 - 👯 I’m looking to collaborate with other content creators
@@ -6,8 +6,8 @@
 - ⚡ Fun fact: I love to play Call Of Duty WarZone 
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ravuga/]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/gauravkumar_13316/]
+[<img align="left" alt="ravuga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ravuga/]
+[<img align="left" alt="ravuga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/gauravkumar_13316/]
 
 <br />
 
