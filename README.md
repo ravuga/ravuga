@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
 <h3 align="center">Die-hard Java Developer</h3>
-## I'm a Software Developer ! <br>
+
+## I'm a Software Developer ! 
+
+<br>
 - 👯 I’m looking to collaborate with other content creators <br>
 - 🥅 2020 Goals: Make Projects on ReactJS + Java + MongoDB <br>
 - ⚡ Fun fact: I love to play Call Of Duty WarZone <br>
