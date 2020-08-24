@@ -11,5 +11,5 @@
 <br />
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ravuga Spotify Playing" width="350" />](https://open.spotify.com/user/314itoxb2ejxkk5pvyqniv3r6zn4)
+[<img src="https://spotify-now-playing-d02ix4vv7.vercel.app/api/spotify-playing" alt="ravuga Spotify Playing" width="350" />](https://open.spotify.com/user/314itoxb2ejxkk5pvyqniv3r6zn4)
 
