@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
-<h3 align="center">Die-hard Java Developer</h3>
 
 ## I'm a Software Developer ! 
 
