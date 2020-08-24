@@ -10,3 +10,6 @@
 <a href="https://www.instagram.com/gauravkumar_13316/"><img align="left" alt="ravuga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br />
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ravuga Spotify Playing" width="350" />] (https://open.spotify.com/user/314itoxb2ejxkk5pvyqniv3r6zn4)
+
