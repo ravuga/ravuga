@@ -3,7 +3,7 @@
 ## I'm a Software Developer ! 
 
 <br>
-- 👯 I’m looking to collaborate with other content creators <br>
+- 👯 I’m looking to collaborate with other developers <br>
 - 🥅 2020 Goals: Make Projects on ReactJS + Java + MongoDB <br>
 - ⚡ Fun fact: I love to play Call Of Duty WarZone <br>
 <br>
