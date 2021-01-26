@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other developers <br>
 - 🥅 2021 Goals: Make Projects on ReactJS + Java + MongoDB <br>
 - ⚡ Fun fact: I love to play Call Of Duty WarZone <br>
-
+- 💬 Discord Server : https://discord.gg/UPEMTGdczS
 <br>
 
 ### Spotify Playing 🎧
