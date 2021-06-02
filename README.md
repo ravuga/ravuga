@@ -3,10 +3,11 @@
 ## I'm a Software Developer ! 
 
 <br>
-- 👯 I’m looking to collaborate with other developers <br>
+- 👯 I’m looking to collaborate with other developers and enthusiast <br>
+- 👨‍💻 My LinkedIn Profile : https://www.linkedin.com/in/ravuga/ <br>
 - 🥅 2021 Goals: Make Projects on ReactJS + Java + MongoDB <br>
-- ⚡ Fun fact: I love to play Call Of Duty WarZone <br>
-- 💬 Discord Server : https://discord.gg/UPEMTGdczS
+- ⚡ Fun fact: I love to play Froza Horizon 4 <br>
+- 🎮 My Steam Profile : https://steamcommunity.com/id/ravuga/
 <br>
 
 ### Spotify Playing 🎧
