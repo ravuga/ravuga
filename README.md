@@ -8,6 +8,7 @@
 - 🥅 2021 Goals: Make Projects on ReactJS + Java + MongoDB <br>
 - ⚡ Fun fact: I love to play Froza Horizon 4 <br>
 - 🎮 My Steam Profile : https://steamcommunity.com/id/ravuga/
+- 📜 Teenage Coder Blogs : https://teenagecoder.com/blog/
 <br>
 
 ## I am Listening to ⬇️
