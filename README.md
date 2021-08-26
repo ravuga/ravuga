@@ -7,7 +7,7 @@
 - 👨‍💻 My LinkedIn Profile : https://www.linkedin.com/in/ravuga/ <br>
 - 🥅 2021 Goals: Make Projects on ReactJS + Java + MongoDB <br>
 - ⚡ Fun fact: I love to play Froza Horizon 4 <br>
-- 🎮 My Steam Profile : https://steamcommunity.com/id/ravuga/
+- 🎮 My Steam Profile : https://steamcommunity.com/id/ravuga/ <br>
 - 📜 Teenage Coder Blogs : https://teenagecoder.com/blog/
 <br>
 
