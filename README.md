@@ -3,12 +3,10 @@
 ## I'm a Software Developer ! 
 
 <br>
-- 👯 I’m looking to collaborate with other developers and enthusiast <br>
 - 👨‍💻 My LinkedIn Profile : https://www.linkedin.com/in/ravuga/ <br>
-- 🥅 2021 Goals: Make Projects on ReactJS + Java + MongoDB <br>
-- ⚡ Fun fact: I love to play Froza Horizon 4 <br>
-- 🎮 My Steam Profile : https://steamcommunity.com/id/ravuga/ <br>
-- 📜 Teenage Coder Blogs : https://teenagecoder.com/blog/
+- 🥅 2022 Goals: Full Stack Developer + RPA Engineering Projects <br>
+- ⚡ Fun fact: I love to play Froza Horizon 5 <br>
+- 🎮 My Steam Profile : https://steamcommunity.com/id/ravuga/ 
 <br>
 
 ## I am Listening to ⬇️
