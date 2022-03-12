@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
+<h1 align="center">Gaurav Kumar</h1>
 
 <p align="center">Programming Enthusiast || B2B & B2C Digital Marketing Specialist</p>
 
