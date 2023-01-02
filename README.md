@@ -3,7 +3,7 @@
 <p align="center">Programming Enthusiast || B2B & B2C Digital Marketing Specialist</p>
 
 <br>
-- ℹ️ About Me :  Confident and dedicated Digital Marketing Specialist, with over 2 years of notable performance in marketing within the Luxury Brand, Travel and Telecommunications industries. Strategic and Pragmatic thinker, adopting Agile Project Management principles to help aid day to day operations. Proven ability to communicate with individuals at all levels, developing strong working relationships, that promote cross-functional teamwork. Always curious to learn new things that solve real life problems.<br>
+- ℹ️ About Me :  Working with Luxury Brands, Travel, and Telecommunications industries. Strategic and Pragmatic thinker, adopting Agile Project Management principles to help aid day-to-day operations. Proven ability to communicate with individuals at all levels, developing strong working relationships, that promote cross-functional teamwork. Always curious to learn new things that solve real-life problems.<br>
 - 👨‍💻 My LinkedIn Profile : https://www.linkedin.com/in/ravuga/ <br>
 - 🎮 My Steam Profile : https://steamcommunity.com/id/ravuga/ 
 <br>
