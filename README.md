@@ -4,8 +4,8 @@
 
 <br>
 ℹ️ About Me :  Gaurav Kumar has honed his skills in operations management, team leadership, and stakeholder engagement. With over 3+ years of experience in the industry, Gaurav has successfully led a team of 17 FTEs to execute high-impact campaigns for Fortune 500 clients.
-<br>
-His expertise lies in:<br>
+<br><br>
+His expertise lies in:<br><br>
 • Resolving complex tasks with efficiency and precision using Programmatic Approach.<br>
 • Managing cross-functional teams to deliver on time and within budget.<br>
 • Streamlining CRM campaign execution through innovative tech solutions.<br>
