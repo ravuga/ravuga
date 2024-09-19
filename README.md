@@ -1,5 +1,31 @@
 <h1 align="center">Gaurav Kumar</h1>
-<h3 align="center">Technology Marketing Manager with 3+ years of experience in operations management, team leadership, and stakeholder engagement. Successfully led a team of 17 FTEs to execute high-impact campaigns for Fortune 500 clients, resolving over 1000 tasks for approximately 10000 story points. Adept at managing cross-functional teams to deliver on time and within budget while streamlining CRM campaign execution through innovative tech solutions. Combines technical acumen with strategic thinking, navigating complexities across luxury brands, travel, and telecommunications sectors to develop structures and processes resulting in increased user engagement and response rates.</h3>
+<h3 align="center">Gaurav Kumar is an experienced technology professional with a strong background in digital marketing, web operations, and software development. With nearly 5 years of experience at eClerx, Gaurav has progressed from an Operations Intern to an Associate Process Manager, demonstrating his ability to lead teams and drive innovation.
+
+Key Highlights:
+Led a digital marketing project for Uber, managing a team of 25 FTEs and overseeing various digital strategies including email, SMS, in-app notifications, and user journey automations.
+Developed and deployed "The Quality, Assurance, and Governance Tool," an in-house software solution for streamlining web ops and QA processes.
+Managed web operations for luxury brand DFS Group, focusing on integrating CRM systems with web content backends.
+Spearheaded the deployment of 10 MVP projects for Fortune 100 companies using Java Full Stack technologies.
+
+Technical Skills:
+Programming Languages: Java, Python, Apex, GoLang, Rust
+Areas of Expertise: System Design and Architecture, Process Improvement, Problem-Solving, Code Quality and Standards
+
+Gaurav excels in:
+Leading and managing complex digital marketing campaigns
+Developing innovative software solutions for process optimization
+Implementing governance frameworks and efficient tools for web operations
+Collaborating with global teams to deliver high-quality digital experiences
+Creating detailed product requirements and user stories
+
+With his diverse skill set and experience, Gaurav is well-equipped to deliver projects in:
+Digital Marketing Strategy and Implementation
+Web Operations and Content Management Systems
+Custom Software Development and Tool Creation
+Process Optimization and Workflow Streamlining
+Cross-functional Team Leadership and Project Management
+
+Gaurav's commitment to continuous learning and staying updated with industry trends positions him as a valuable asset for organizations seeking to drive technological innovation and maintain a competitive edge in the digital landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravuga&label=Profile%20views&color=0e75b6&style=flat" alt="ravuga" /> </p>
 
