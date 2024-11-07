@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I am a results-driven **Project Manager** with nearly 5 years of experience in **digital marketing**, **web operations**, and **software development**. My expertise lies in leading cross-functional teams, managing complex projects, and developing innovative solutions to streamline business processes. I have worked on high-impact projects for global brands like **Uber** and **DFS Group**, delivering measurable improvements in efficiency and performance.
+I am a results-driven **Project Manager** with 5 years of experience in **digital marketing**, **web operations**, and **software development**. My expertise lies in leading cross-functional teams, managing complex projects, and developing innovative solutions to streamline business processes. I have worked on high-impact projects for global brands like **Uber** and **DFS Group**, delivering measurable improvements in efficiency and performance.
 
 ---
 
