@@ -37,8 +37,8 @@ with open("commit.txt", "w") as f:
             
             # Add file changes and commit
             os.system("git add .")
-            os.system(f'git commit --date="{formatted_date} 12:15:10" -m "commit ke {ctr}"')
-            print(f"commit ke {ctr}: {formatted_date}")
+            os.system(f'git commit --date="{formatted_date} 12:15:10" -m "{ctr}"')
+            print(f"{ctr}: {formatted_date}")
             
             ct -= 1
             ctr += 1
@@ -49,5 +49,4 @@ with open("commit.txt", "w") as f:
 
 # Set the remote repository and push to GitHub
 os.system(f"git remote add origin {repo_link}")
-os.system("git branch -M main")
-os.system("git push -u origin main -f")
+os.system("git push -u origin master -f")
