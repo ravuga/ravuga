@@ -97,3 +97,7 @@ Built **custom dashboards** for monitoring ticket queues and tracking **CSAT sco
 
 Feel free to reach out to me if you'd like to collaborate, discuss projects, or explore how I can contribute to your team's success.
 
+
+
+### Latest Update from ravuga.in
+<p>Lovely Professional University, Jalandhar, India</p>
