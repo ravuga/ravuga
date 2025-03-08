@@ -1,98 +1,66 @@
-# Gaurav Kumar - Project Manager (He/Him)
+# 🚀 Gaurav Kumar - Agile Project Manager
 
-🌍 **Location:** Chandigarh, India  
-📧 **Email:** gauravkumarak@gmail.com  
-🔗 **LinkedIn:** [Gaurav Kumar](https://www.linkedin.com/in/ravuga)  
-🔗 **Connect Me via:** [ravuga.in](https://ravuga.in/)
+![Profile Views](https://komarev.com/ghpvc/?username=ravuga&color=blue)
 
----
+## 👋 About Me  
+As a results-driven leader at the intersection of **Agile, AI, and Product Management**, I thrive in high-stakes environments where adaptability and strategic thinking are key. I believe in **trust, credibility, and a growth mindset**, ensuring teams stay resilient and motivated, even in the face of uncertainty.
 
-## 👋 About Me
+🔹 **Agile & AI-Driven Solutions** – Driving innovation with data-backed decisions.  
+🔹 **Strategic Problem-Solving** – Optimizing workflows and balancing trade-offs.  
+🔹 **Team Leadership & Motivation** – Fostering resilience and high performance.  
 
-I am a results-driven **Project Manager** with 5 years of experience in **digital marketing**, **web operations**, and **software development**. My expertise lies in leading cross-functional teams, managing complex projects, and developing innovative solutions to streamline business processes. I have worked on high-impact projects for global brands like **Uber** and **DFS Group**, delivering measurable improvements in efficiency and performance.
-
----
-
-## 💡 Key Highlights
-
-- Led a **Digital Marketing Project** for Uber, managing a team of 25, overseeing strategies like email, SMS, in-app notifications, and user journey automations.
-- Developed and deployed **The Quality, Assurance, and Governance Tool**, a custom software solution for web operations and quality assurance.
-- Managed web operations for **DFS Group**, integrating CRM systems with web content backends to streamline workflows.
-- Spearheaded the deployment of **10 MVP projects** for Fortune 100 companies using **Java Full Stack** technologies.
+I’m always open to collaboration and knowledge-sharing. Let’s connect and **build impactful products together!**
 
 ---
 
-## 💼 Professional Experience
-
-### eClerx (Remote)
-**Associate Process Manager (Specialist Developer)**  
-_April 2022 – June 2024_  
-- Led global digital marketing initiatives for **Uber**.
-- Developed an in-house **Governance and Quality Assurance Tool** to streamline operations.
-- Spearheaded **system design** and **architecture** for scalable and high-performance solutions.
-
-**Senior Analyst (Senior Developer)**  
-_August 2020 – March 2022_  
-- Managed digital marketing campaigns for Uber across channels (email, SMS, notifications, etc.).
-- Conducted **market research** and developed campaign strategies to boost engagement.
-- **Optimized processes** using Agile methodologies and ensured compliance with governance practices.
-
-**Operations Intern (Developer)**  
-_August 2019 – July 2020_  
-- Led **web operations** for DFS Group, ensuring seamless digital experiences across international markets.
-- Integrated **CRM systems** with web content backends to improve workflow efficiency.
-- Spearheaded the deployment of **10 MVP projects** for **Fortune 100 companies** using **Java Full Stack** technologies.
+## 🔥 Key Skills  
+- **Agile Project Management** (Scrum, Kanban, SAFe)  
+- **Full Stack Development** (Spring Boot, React, Next.js)  
+- **AI & Digital Transformation** (AI-powered automation, AI chatbots)  
+- **Digital Marketing Campaigns** (SEO, Analytics, Growth Strategy)  
+- **Salesforce & Adobe Experience Cloud** (Marketing Automation, CRM Optimization)  
 
 ---
 
-## 🛠️ Technical Skills
+## 💼 Featured Projects  
+### 🚀 AI Case Study Generator ([Live Demo](https://ai-case-study-generator.vercel.app/))  
+AI-powered tool that **automates structured case studies**, saving 70% of manual effort. Built with **Next.js, OpenAI API, Framer Motion**.
 
-- **Languages:** Java, Python, Apex, GoLang, Rust  
-- **Technologies:** Salesforce Marketing Cloud, MailChimp, HubSpot CRM, Adobe Experience Cloud  
-- **Areas of Expertise:** Agile Project Management, Digital Marketing, System Design, Workflow Automation
+### 🔍 CustomGPT - JavaScript Pro Developer ([Try Now](https://chatgpt.com/g/g-fGh4BkI0J-javascript-pro-developer))  
+AI-powered tool for **debugging JavaScript errors** using OpenAI & Stack Overflow data.
 
----
+### 📊 CRM Control Tower ([Live Demo](https://crm-tower.vercel.app/))  
+**Customised Dashboards for Ticket Queue Monitoring:**
+- Real-Time Insights: These dashboards provide instant visibility into ticket queues, showcasing key metrics like the number of open tickets, priority levels, and assigned team members. The dynamic updates ensure that any changes in ticket status are reflected immediately, allowing teams to respond promptly to emerging issues.
+- Workflow Optimization: Visual indicators, such as charts and graphs, highlight potential bottlenecks and areas where resolution times are lagging, enabling proactive resource allocation and maintaining optimal workflow efficiency.
 
-## 🏆 Certifications
-
-- **Google AI Essentials** (Issued October 2024)
-- **Agile Project Management** (Issued September 2024)
-- **Creativity: Generate Ideas in Greater Quantity and Quality**
-- **Service Innovation**
-- **Improving Your Judgment for Better Decision-Making**
-
----
-
-## 🌱 Continuous Learning
-
-I am passionate about staying up-to-date with emerging technologies and continuously improving my skills. Some of my recent learning includes:
-
-- **Disciplined Agile Scrum Master (DASM)**
-- **Google Project Management Specialization**
-- **Generative AI in Project Management**
+### 📊 Quality, Assurance and Governance Tool ([Live Demo](https://quality-dashboard-nine.vercel.app/))  
+The Quality, Assurance, and Governance Tool is an advanced software solution specifically designed to streamline and manage the complex workflows associated with Web Operations and Quality Audits. This tool serves as a centralized platform, ensuring that all processes related to web development, maintenance, and auditing are conducted efficiently, accurately, and in compliance with industry standards.
 
 ---
 
-## 🔧 Projects
+## 📊 GitHub Stats
 
-### Quality, Assurance, and Governance Tool  
-_April 2022 - June 2024_  
-Developed an advanced tool for managing web operations and quality audits, with automated quality checks and compliance enforcement.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravuga&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
-### CRM Control Tower  
-_June 2021 - March 2022_  
-Built **custom dashboards** for monitoring ticket queues and tracking **CSAT scores** in real-time, improving workflow efficiency and customer satisfaction.
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ravuga&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=6&rank=SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
+</p>
+
+## 🚀 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravuga&theme=radical" alt="GitHub Contribution Graph" />
+</p>
 
 ---
 
-## 🏅 Honors & Awards
+## 🤝 Let’s Connect  
+[ravuga.in](https://ravuga.in/)
 
-- **Employee of the Year** (2023) – eClerx  
-- **Employee of the Quarter** (2021) – eClerx  
-- **Values Award** – (2x Recipient)
+🚀 **Always looking for new opportunities in AI, Agile, and Product Management!**
 
----
-
-## 💬 Let's Connect!
-
-Feel free to reach out to me if you'd like to collaborate, discuss projects, or explore how I can contribute to your team's success.
