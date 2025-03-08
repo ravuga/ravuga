@@ -3,7 +3,7 @@
 🌍 **Location:** Chandigarh, India  
 📧 **Email:** gauravkumarak@gmail.com  
 🔗 **LinkedIn:** [Gaurav Kumar](https://www.linkedin.com/in/ravuga)  
-🔗 **Connect Me via:** [linktr.ee/ravuga](https://linktr.ee/ravuga)
+🔗 **Connect Me via:** [ravuga.in](https://ravuga.in/)
 
 ---
 
