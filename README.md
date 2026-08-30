@@ -1,4 +1,5 @@
-# 🚀 Gaurav Kumar - Agile Leader | AI & Product Management | Vibe Coder
+# Gaurav Kumar
+# Open-Source AI Enthusiast | Indie AI Builder | Exploring GenAI & Physical AI
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ravuga&color=blue)
 
