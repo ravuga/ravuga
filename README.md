@@ -58,10 +58,10 @@ At **Uber AI Solutions**, I act as the Voice of Customer (VoC) for a distributed
 
 ## 💼 Featured Projects
 
-### 🎥 YouTube AI Recommender ([Try Now](https://youtube-ai-recommender.vercel.app/))
+### 🎥 YouTube AI Recommender
 Smart filtering app that excludes shorts and surfaces high-quality, long-form YouTube content. Built with **Next.js, React, TypeScript, Tailwind CSS, YouTube Data API v3**.
 
-### 🚀 AI Case Study Generator ([Live Demo](https://ai-case-study-generator.vercel.app/))
+### 🚀 AI Case Study Generator 
 AI-powered tool that **automates structured case studies**, saving 70% of manual effort. Built with **Next.js, Gemini Pro, Framer Motion**.
 
 ### 🔍 CustomGPT - JavaScript Pro Developer ([Try Now](https://chatgpt.com/g/g-fGh4BkI0J-javascript-pro-developer))
@@ -70,13 +70,13 @@ AI-powered tool for **debugging JavaScript errors** using OpenAI and Stack Overf
 ### 🎙️ Beyond Waterfall: The Retrospective Round ([Spotify](https://open.spotify.com/show/0ARVfbW1jb332JCcUDRArr))
 13-episode podcast on **PMI-DASM and Agile methodologies**, produced in under 4 hours with AI-assisted content creation. Also on [Apple Podcasts](https://podcasts.apple.com/us/podcast/beyond-waterfall-the-retrospective-round/id1774976525) and [YouTube](https://www.youtube.com/playlist?list=PLPsNy0rmwlwePh34b9AHZrg-YQ6VUJ_Cf).
 
-### 📬 Agile Insights Newsletter ([Subscribe](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7199144825076523008))
-Weekly content series on agile strategies, team dynamics, and project management best practices—delivered every Monday at 12 PM IST.
+### 📬 Agile Insights Newsletter 
+Weekly content series on agile strategies, team dynamics, and project management best practices—delivered.
 
-### 📊 CRM Control Tower ([Live Demo](https://crm-tower.vercel.app/))
+### 📊 CRM Control Tower 
 Custom dashboards for **ticket queue monitoring** with real-time insights, CSAT score tracking, and JQL-powered reporting for workflow optimization.
 
-### 📊 Quality, Assurance and Governance Tool ([Live Demo](https://quality-dashboard-nine.vercel.app/))
+### 📊 Quality, Assurance and Governance Tool 
 Centralized platform for **Web Operations and Quality Audits**—automating quality checks, governance workflows, and compliance across web development lifecycles.
 
 ---
