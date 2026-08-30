@@ -85,4 +85,4 @@ Centralized platform for **Web Operations and Quality Audits**—automating qual
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ravuga-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ravuga/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ravuga.in-green?style=flat&logo=google-chrome)](https://ravuga.in/)
 
-🚀 **Open to opportunities in Product Management, Agile Delivery, Project Management, and Engineering Management across Delhi NCR.**
+🚀 **Open to opportunities in Product Management, Agile Delivery, Project Management, Operations Management and Engineering Management.**
